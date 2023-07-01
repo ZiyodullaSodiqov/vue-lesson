@@ -1,0 +1,24 @@
+{
+    "tasks" : [
+        {
+            "id": 1,
+            "title": "Play footbal",
+            "isFav": true
+        },
+        {
+            "id": 2,
+            "title": "Clean room",
+            "isFav": false
+        },
+        {
+            "id": 2,
+            "title": "Cooking a meal",
+            "isFav": true
+        },
+        {
+            "id": 2,
+            "title": "Wash a dishes",
+            "isFav": false
+        }
+    ]
+}
